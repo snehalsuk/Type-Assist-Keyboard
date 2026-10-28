@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TypeAssist</string>
+    <string name="keyboard_display_name">Type Assist</string>
 </resources>
