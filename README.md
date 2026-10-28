@@ -4,9 +4,13 @@ Type Assist is a custom Android keyboard (an Input Method Editor, or IME) that b
 
 ## Screenshots
 
-<p align="center">
-  <img src="screenshots/keyboard.jpeg" alt="Type Assist keyboard with the AI toolbar" width="480">
-</p>
+| Keyboard | Translate panel |
+|---|---|
+| <img src="screenshots/keyboard.png" alt="Type Assist keyboard with the AI toolbar" width="400"> | <img src="screenshots/translate.png" alt="AI translate panel" width="400"> |
+
+| Onboarding | Keyboard settings |
+|---|---|
+| <img src="screenshots/onboarding.png" alt="Type Assist onboarding screen" width="300"> | <img src="screenshots/settings.png" alt="Keyboard settings: themes, background, font, text size" width="300"> |
 
 ---
 
