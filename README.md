@@ -2,6 +2,12 @@
 
 Type Assist is a custom Android keyboard (an Input Method Editor, or IME) that brings AI writing tools directly into the keyboard, so they work inside **any app**: WhatsApp, Gmail, Instagram, Chrome, Notes, and so on. Instead of copying text into a separate AI app and pasting it back, the user taps a button on the keyboard and the text in the field is fixed, rewritten, or translated in place.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/keyboard.jpeg" alt="Type Assist keyboard with the AI toolbar" width="480">
+</p>
+
 ---
 
 ## What it does
