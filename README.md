@@ -121,13 +121,3 @@ app/
 4. On the phone, open **Type Assist** → **Open Keyboard Settings** → turn on **Type Assist**, then switch to it from any text field.
 
 ---
-
-## Resume bullet points
-
-> **Type Assist — AI-Powered Android Keyboard** | Kotlin, Jetpack Compose, React Native, TypeScript, Groq API (Llama 3.3)
-> - Built a system-wide Android keyboard (InputMethodService) with in-place AI grammar correction, 13 tone rewrites, translation into 12 languages, and smart replies that work inside any app.
-> - Developed the full keyboard UI in Jetpack Compose hosted inside a background service by manually providing Lifecycle, ViewModel, and SavedState owners; fixed a rotation bug that left keys untouchable.
-> - Integrated the Groq LLM API with OkHttp and Kotlin Coroutines, with preview-before-apply results and graceful error handling.
-> - Implemented on-device learning word suggestions, auto-capitalization, voice typing, clipboard history, and GIF/sticker sharing through Android's rich-content API.
-> - Protected user privacy with AES-256-GCM encrypted local typing history and automatic exclusion of password fields.
-> - Built a React Native + TypeScript onboarding app with animated feature showcase and guided keyboard setup.
